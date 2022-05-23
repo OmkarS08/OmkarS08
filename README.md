@@ -1,6 +1,7 @@
 # Hi there, I'm Omkar- 👋 
 
-[![icon](https://user-images.githubusercontent.com/76588232/169801208-da10654e-48dd-4735-83ec-74b58b96085f.png)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)
 ](https://twitter.com/omi__08)
 
 
